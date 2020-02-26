@@ -1,0 +1,32 @@
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\UserControl1.g.cs
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar_MarkupCompile.cache
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar_MarkupCompile.lref
+F:\sample code\CircleProgressBar\CircleProgressBar\bin\Debug\CircleProgressBar.dll
+F:\sample code\CircleProgressBar\CircleProgressBar\bin\Debug\CircleProgressBar.pdb
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\styles.baml
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\UserControl1.baml
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.g.resources
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.Properties.Resources.resources
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.csproj.GenerateResource.Cache
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.dll
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.pdb
+F:\sample code\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.csprojResolveAssemblyReference.cache
+F:\sample code\CircleProgressBar\CircleProgressBar\bin\Debug\System.Net.Http.dll
+F:\sample code\CircleProgressBar\CircleProgressBar\bin\Debug\System.Net.Http.xml
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\bin\Debug\CircleProgressBar.dll
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\bin\Debug\CircleProgressBar.pdb
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\bin\Debug\System.Net.Http.dll
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\bin\Debug\System.Net.Http.xml
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.csprojResolveAssemblyReference.cache
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\UserControl1.g.cs
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar_MarkupCompile.cache
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar_MarkupCompile.lref
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\styles.baml
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\UserControl1.baml
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.g.resources
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.Properties.Resources.resources
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.csproj.GenerateResource.Cache
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.dll
+F:\samplers\Best\CircleProgressBar\CircleProgressBar\obj\Debug\CircleProgressBar.pdb
