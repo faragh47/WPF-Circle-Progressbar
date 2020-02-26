@@ -1,4 +1,4 @@
 # WPF-Circle-Progressbar
 Material Design Circle Progress Bar in C# WPF
 
-![Alt text](C:\Users\farghadani.KIMIAZI\Desktop\wallpaper\circular progressbar.png?raw=true "Title")
+![alt text](https://github.com/faragh47/WPF-Circle-Progressbar/blob/master/circular%20progressbar.png)
